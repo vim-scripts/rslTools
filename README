@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3213
+
+RSL Vim tools are a set of Vim commands that help people to write, compile and render their RSL shaders in one place. Usually at the time of shader writing, switching between different applications to compile and render the shader is very time consuming. These scripts intgrate all of these steps and using them, developer can manage his\her time more efficiently. It is customizable and support different renderman implementations.
